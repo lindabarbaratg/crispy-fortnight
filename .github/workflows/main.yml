@@ -22,6 +22,7 @@ jobs:
           python -m pip install selenium
           python -m pip install supabase
           pip install seleniumbase
+          pip install PyAutoGUI
           sudo apt install -y google-chrome-stable
           sudo apt install -y xvfb
           export DISPLAY=:0
