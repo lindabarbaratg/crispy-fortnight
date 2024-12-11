@@ -1,6 +1,5 @@
 from seleniumbase import *
 import random
-import pyperclip
 from supabase import create_client, Client
 import time
 import csv
